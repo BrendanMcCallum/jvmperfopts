@@ -1,3 +1,5 @@
+Need to see how this compares to https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/
+
 So, java garbage collection is a mixed bag. In demanding apps, it's like there's these crazy kids with an apocalyptic, world ending, huge nerf war going on, shooting darts (memory) around like crazy. Every so often the parents (java) comes downstairs, sees the mess, and forces the kids (processors) to stop what they're doing to clean up. Time spent sitting around cleaning up means less fun time.
 
 
